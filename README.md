@@ -3,6 +3,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_aaa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+Hi, my name is Rodrigo Amorim,<br>
+I am
+Software Developer
+i am 20 years old and study computer science at a college <br>
+I also study several programming languages on my own,
+firstly I intend to specialize in front end, then in back end.<br>
+Welcome to my Profile.
+
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rabmorim&show_icons=true&theme=radical)
 
 ## Tecnologias que ja tenho conhecimento
