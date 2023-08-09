@@ -13,7 +13,7 @@ Welcome to my Profile.
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rabmorim&show_icons=true&theme=radical)
 
-## Tecnologias que ja tenho conhecimento
+## Tecnologias que ja tenho um certo conhecimento
 <div style="display: inline_block"><br/>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
