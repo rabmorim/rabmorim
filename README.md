@@ -6,7 +6,7 @@
 Hi, my name is Rodrigo Amorim,<br>
 I am
 Software Developer
-i am 20 years old and study computer science at a college <br>
+i am 21 years old and study computer science at a college <br>
 I also study several programming languages on my own,
 firstly I intend to specialize in front end, then in back end.<br>
 Welcome to my Profile.
