@@ -19,6 +19,11 @@ Welcome to my Profile.
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="BootsTrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center' alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img align="center' alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img align="center' alt="firebase" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
 </div><br>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabmorim&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,9 +31,8 @@ Welcome to my Profile.
 
 ## Skills I'm studying
 <div style="display: inline_block"><br/>
-  <img align="center' alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center' alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center' alt="firebase" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
+  <img align="center' alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img align="center' alt="C#" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
 </div><br>
 
 ## Contact
