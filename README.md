@@ -6,9 +6,8 @@
 Hi, my name is Rodrigo Amorim,<br>
 I am
 Software Developer
-i am 21 years old and study computer science at a college <br>
-I also study several programming languages on my own,
-firstly I intend to specialize in front end, then in back end.<br>
+i am 22 years old and study computer science at a college <br>
+I also study several programming languages on my own.<br>
 Welcome to my Profile.
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rabmorim&show_icons=true&theme=radical)
