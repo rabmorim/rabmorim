@@ -29,8 +29,11 @@ Welcome to my Profile.
 
 
 ## Contact
- E-mail= Ramorim13@yahoo.com.br
- 
- E-mail reserva= rodrigoabreuamorim9@gmail.com
+<div style="display: flex; align-items: center; justify-content: center; font-size: 18px;">
+   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail Icon" width="24" height="24">
+   <span>rodrigoabreuamorim9@gmail.com</span>
+</div>
+
+
 
 
