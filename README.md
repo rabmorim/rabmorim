@@ -57,13 +57,6 @@ I love creating modern web and mobile experiences using cutting-edge technologie
 
 ---
 
-<p align="space-between ">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rabmorim&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabmorim&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🧩 Featured Projects
 
 - 💪 [**Frango Fit**](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e4-proj-infra-t7-acad/) — fitness web and mobile app built with React, React Native and ASP.NET  
