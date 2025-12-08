@@ -59,8 +59,9 @@ I love creating modern web and mobile experiences using cutting-edge technologie
 
 ### 🧩 Featured Projects
 
-- 💪 [**Frango Fit**](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e4-proj-infra-t7-acad/) — fitness web and mobile app built with React, React Native and ASP.NET  
-- 🧠 [**App TaskTalker**](https://github.com/rabmorim/app_tasktalker) — task management app built with Flutter and Firebase
+- 💪 [**Frango Fit**](https://github.com/rabmorim/frango-fit) — fitness web and mobile app built with React, React Native and ASP.NET
+- 🧠 [**WellWind**](https://github.com/rabmorim/WellWind) — Emotional control app
+- 📅 [**App TaskTalker**](https://github.com/rabmorim/app_tasktalker) — task management app built with Flutter and Firebase
 
 ---
 
