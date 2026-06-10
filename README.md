@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 I'm **Rodrigo Amorim**, a passionate **Software Developer** from Brazil 🇧🇷.<br/>
-I'm 22 years old and currently pursuing a **degree in Computer Science**.<br/>
+I'm 23 years old and currently pursuing a **degree in Computer Science**.<br/>
 I love creating modern web and mobile experiences using cutting-edge technologies.  
 
 💡 Always learning, always building.  
