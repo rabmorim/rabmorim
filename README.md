@@ -71,6 +71,7 @@ I love creating modern web and mobile experiences using cutting-edge technologie
 ---
 
 ### 🏅 Certifications
+- Higher Education Diploma in Systems Analysis and Development (PUC Minas)
 - Software Analyst (PUC Minas)
 - Software Developer (PUC Minas)  
 - Featured Project 3rd Period (PUC Minas)
