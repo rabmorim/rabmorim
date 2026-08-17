@@ -62,6 +62,7 @@ I love creating modern web and mobile experiences using cutting-edge technologie
 ---
 
 ### 🧩 Featured Projects
+- 🏆[**CSVboard**](https://csvboard.com.br) - Application to transform spreadsheets into dashboards using AI
 - 🥇 [**Kidoçura**](https://confeitariakidocura.com.br) - Admin control application and client page for orders
 - 💪 [**Frango Fit**](https://github.com/rabmorim/frango-fit) — Fitness web and mobile app built with React, React Native and ASP.NET
 - 🧠 [**WellWind**](https://github.com/rabmorim/WellWind) — Emotional control app
